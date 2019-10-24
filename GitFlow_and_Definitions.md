@@ -19,3 +19,5 @@ Here is a quick easy tutorial on gitFlow: [gitFlow Tutorial](https://www.atlassi
 * Remote Add/Remove/Show
 * Status
 * Master Branch
+
+Here is a quick tutorial on Git:[Git Tutorial](https://www.youtube.com/watch?v=USjZcfj8yxE)
