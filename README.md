@@ -17,3 +17,10 @@ Test automation is the use of software separate from the software being tested t
 
 **Continuous Integration:**
 This is a development practice that requires code integration into a shared repository several times a day. Then it is checked automatically to check for problems early on. Using Git, Docker and automated testing allow for continuous integrations. 
+
+
+*Sources:*
+https://www.guru99.com/the-vi-editor.html
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+https://guides.github.com/features/mastering-markdown/
+https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes
