@@ -14,7 +14,11 @@ Here is a quick easy tutorial on gitFlow: [gitFlow Tutorial](https://www.atlassi
   1. As for cloning, this function as stated before is downloading a copy of the source code, or text. The copy on your computer will sync with the original file on GitHub, practically acting as a backup for your project.
   2. The command for this is git clone <remote_URL>
 * Fork
+  1. A fork is a copy of a repository, this allows someone to make changes that will not go directly to the repository.
+  2. Forking uses the same command as cloning.  On github there is a fork button seperate from the clone button, but in bash they are they do the same thing.
 * Branch
+  1. The connections between all the pushing and pulling is documented as branches. These branches can all be seen in the branches tab on the main page of your repository. It will show the branches that you have pushed to, branches that people have committed to, and even branches that noone has committed to recently.
+  2. git branch <branch_name> will create a branch and branches can be viewed with git branch -a and deleted with git branch -d<branch_name>
 * Commit
 * Merge
 * Checkout
