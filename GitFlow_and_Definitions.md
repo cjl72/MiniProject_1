@@ -20,8 +20,14 @@ Here is a quick easy tutorial on gitFlow: [gitFlow Tutorial](https://www.atlassi
   1. The connections between all the pushing and pulling is documented as branches. These branches can all be seen in the branches tab on the main page of your repository. It will show the branches that you have pushed to, branches that people have committed to, and even branches that noone has committed to recently.
   2. git branch <branch_name> will create a branch and branches can be viewed with git branch -a and deleted with git branch -d<branch_name>
 * Commit
+  1.  A commit is a revision or an edit on your project. This can be done by clicking the edit button on the top right of your repository and proceeding to edit your document and hit commit changes on the bottom left when finished. This will document the time of changes and what changes.
+  2. The command for this is git commit -m "Commit Message"
 * Merge
+  1. When looking at all the branches you can put all the seperate branches into on single branch. This can be useful when there are so many branches created it is hard to keep track of. The basic understanding is taking all these different committs and logging them all together.  This is a merge.
+  2. The command is git merge <branch_name>
 * Checkout
+  1. he git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
+  2. The command is git checkout <branch_name> and git checkout -b <branch_name> checks out and creates a new branch.
 * Push
 * Pull
 * Remote Add/Remove/Show
