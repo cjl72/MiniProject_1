@@ -20,8 +20,13 @@ This is a development practice that requires code integration into a shared repo
 
 
 *Sources:*
+
 https://www.guru99.com/the-vi-editor.html
+
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
 https://guides.github.com/features/mastering-markdown/
+
 https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes
+
 http://guides.beanstalkapp.com/version-control/common-git-commands.html
