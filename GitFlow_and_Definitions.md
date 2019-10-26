@@ -29,8 +29,15 @@ Here is a quick easy tutorial on gitFlow: [gitFlow Tutorial](https://www.atlassi
   1. he git checkout command lets you navigate between the branches created by git branch . Checking out a branch updates the files in the working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
   2. The command is git checkout <branch_name> and git checkout -b <branch_name> checks out and creates a new branch.
 * Push
+  1. Pushing sends your local commits to the remote repository.  
+  2. the command is git push <repository url><branch>
 * Pull
+  1. Pull will get the latest version of the repository.  Gets the changes from remote repository and makes it local
+  2. The command for this is git pull <branch_name><repository url>
 * Remote Add/Remove/Show
+  1. To add a remote repository you can use the command git remote <command><remote_name><remote_URL>
+  2. git remote remove origin is how you remove the remote repository connection, with older versions it is git remote rm origin
+  3. you can use git remote -v to show the urls stored with the remote names
 * Status
 * Master Branch
 
