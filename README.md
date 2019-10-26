@@ -5,6 +5,8 @@
 
 **[Vi, Files, and Basic Commands](https://github.com/cjl72/MiniProject_1/blob/master/ViFilesandBasicCommands.md)**
 
+**[Changelog](https://github.com/cjl72/MiniProject_1/blob/master/Changelog.md)**
+
 ## Introduction
 **Git:**
 The branching capabilities of git is one of the greatest features that this platform has.  Due to this, productivity can be increased in the company by tracking all the changes and having multiple people work on the same thing at once. Collaboration is easier so that changes are merged instead of overwritten. Everything has a process that is very integrative. 
