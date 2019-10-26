@@ -39,6 +39,8 @@ Here is a quick easy tutorial on gitFlow: [gitFlow Tutorial](https://www.atlassi
   2. git remote remove origin is how you remove the remote repository connection, with older versions it is git remote rm origin
   3. you can use git remote -v to show the urls stored with the remote names
 * Status
+  1. git status returns the current state of the repository.  Can show if file is waiting on commits or if it is clean.
 * Master Branch
+  1. As it can be seen by the above picture, the master branch is the home base per say.  The master branch ponter moves forward as commits are made.  It can be seen as a final product after all the commits are pushed to it.
 
 Here is a quick tutorial on Git: [Git Tutorial](https://www.youtube.com/watch?v=USjZcfj8yxE)
