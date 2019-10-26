@@ -49,4 +49,4 @@
 ## [Feature: Added Defs for commit, merge, and checkout](https://github.com/cjl72/MiniProject_1/commit/18d4dacc79df9127d8ffaeb8d7a05664327385e8) Connor
 ## [Feature: Added defs for push, pull and remote](https://github.com/cjl72/MiniProject_1/commit/fa89862c8646d1537a98160f3799493105551201) Connor
 ## [Feature: Added defs for status and master branch](https://github.com/cjl72/MiniProject_1/commit/880d972b9e8e69e10076e62d42361166e8dbb714) Connor
-
+## [Feature: Added Changelog Link](https://github.com/cjl72/MiniProject_1/commit/0a28fcc189ab6f30e04b87043edeffe026f2536b) Connor
